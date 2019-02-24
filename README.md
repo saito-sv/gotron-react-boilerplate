@@ -1,2 +1,2 @@
 # gotron-react-boilerplate
-Gotron electronjs webpack r boilerplate
+Gotron electronjs webpack 4 boilerplate
