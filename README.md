@@ -34,7 +34,8 @@ The application consists of...
 
 The build process compiles the content of the `src` folder and puts it into the `dist` folder, so after the build has finished, your `dist` folder contains the full, runnable application.
 
-Ive used `go11.1` and `mod` but i figured you might dont have to use `mod` for depencies to i had addedm `go.mod` and `go,.sum` files to `.gitignore` feel free to make changes as needed.
+I've used `mod` for go depencency manager but i figured you might want to use something different so ive added the
+`go.mod` and `go.sum` files to `.gitignore` feel free to make changes as needed.
 
 # Development
 
