@@ -4,3 +4,5 @@ go.sum
 .gotron/
 ui/dist/
 ui/node_modules/
+ui/yarn.lock
+ui/package-lock.json
