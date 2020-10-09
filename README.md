@@ -8,7 +8,7 @@ This project contains only bare minimum of tooling and dependencies to provide y
 
 Make sure you have [Node.js](https://nodejs.org) installed, then type the following commands known to every Node developer...
 
-```
+```bash
 git clone https://github.com/Marlon-Monroy/gotron-react-boilerplate.git
 cd gotron-react-boilerplate/ui
 npm install
@@ -17,7 +17,7 @@ npm start
 
 if you are using yarn
 
-```
+```bash
 git clone https://github.com/Marlon-Monroy/gotron-react-boilerplate.git
 cd gotron-react-boilerplate/ui
 yarn
@@ -41,13 +41,13 @@ I've used `mod` for go depencency manager but i figured you might want to use so
 
 ## Starting the app
 
-```
+```bash
 npm run dev
 ```
 
 if you are using yarn
 
-```
+```bash
 yarn run dev
 ```
 
@@ -77,7 +77,7 @@ Remember to respect the split between `dependencies` and `devDependencies` in `p
 
 To package your app:
 
-```
+```bash
 cd gotron-react-boilerplate/ui
 npm run build
 ```
