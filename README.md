@@ -42,7 +42,13 @@ I've used `mod` for go depencency manager but i figured you might want to use so
 ## Starting the app
 
 ```
-go run main.go
+npm run dev
+```
+
+if you are using yarn
+
+```
+yarn run dev
 ```
 
 ## The build pipeline
